@@ -49,3 +49,5 @@ LEFT JOIN (
 ) e USING (student_id, subject_name)
 ORDER BY s.student_id, sub.subject_name;
 
+practice this question again.
+
